@@ -9,6 +9,5 @@ call conda install -c 1adrianb face_alignment
 
 REM ### install all other packages needed for the project ### 
 call pip install -r src/requirements.txt
-call pip install pytorch==1.8.0
-call pip install torchvision==0.9.0
+
 
